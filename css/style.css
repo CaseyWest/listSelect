@@ -1,0 +1,47 @@
+body {
+	background-color: #272822;
+	color: #272822;
+	margin: 0;
+	padding: 0;
+}
+
+table {
+	border: 3px solid #000000;
+	border-collapse: collapse;
+	margin: 0 auto;
+	width: 550px;
+}
+
+tr:hover {
+	background-color: #FD971F;
+}
+
+td {
+	padding: 10px;
+}
+
+div {
+	width: 550px;
+}
+
+.center {
+	margin: auto;
+}
+
+.even {
+	background-color: #66D9EF;
+}
+
+.hide {
+	display: none;
+}
+
+.message  {
+	background-color: #66D9EF;
+	border: 3px solid #000000;
+	padding: 10px;
+}
+
+.odd {
+	background-color: #EEEEEE;
+}
